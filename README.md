@@ -14,7 +14,7 @@ called before the timeout period (the default timeout is one second), it clears
 the timeout and invokes the input function. If the returned function isn't called
 before the timeout period, the input function is called regardless.
 
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/function-with-timeout.svg)](https://saucelabs.com/u/function-with-timeout)
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/function-w-timeout.svg)](https://saucelabs.com/u/function-w-timeout)
 
 Works in the browser, with [browserify](http://browserify.org/)! Module development sponsored by [Study Notes](https://www.apstudynotes.org).
 
