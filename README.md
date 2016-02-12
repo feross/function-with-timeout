@@ -1,10 +1,10 @@
 # function-with-timeout [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/feross/function-with-timeout.svg?style=flat
+[travis-image]: https://img.shields.io/travis/feross/function-with-timeout/master.svg
 [travis-url]: https://travis-ci.org/feross/function-with-timeout
-[npm-image]: https://img.shields.io/npm/v/function-with-timeout.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/function-with-timeout.svg
 [npm-url]: https://npmjs.org/package/function-with-timeout
-[downloads-image]: https://img.shields.io/npm/dm/function-with-timeout.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/function-with-timeout.svg
 [downloads-url]: https://npmjs.org/package/function-with-timeout
 
 ### Ensure a function is always called within a timeout period
