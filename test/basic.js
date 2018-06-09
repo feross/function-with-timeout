@@ -49,7 +49,7 @@ test('function gets called after timeout (custom timeout)', function (t) {
   var d = Date.now()
   function myFn () {
     var elapsed = Date.now() - d
-    t.ok(elapsed >= 500 && elapsed < 1000)
+    t.ok(elapsed >= 500 && elapsed < 20 * 1000)
   }
   var fn = functionWithTimeout(myFn, 500)
   setTimeout(fn, 1000)
